@@ -1,6 +1,6 @@
-package com.infinix.hiringChallange.repository;
+package com.infinx.billManagementSystem.repository;
 
-import com.infinix.hiringChallange.models.Bill;
+import com.infinx.billManagementSystem.models.Bill;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

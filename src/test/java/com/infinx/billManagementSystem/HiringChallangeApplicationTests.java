@@ -1,4 +1,4 @@
-package com.infinix.hiringChallange;
+package com.infinx.billManagementSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

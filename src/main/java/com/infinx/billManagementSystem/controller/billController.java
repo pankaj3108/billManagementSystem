@@ -1,9 +1,9 @@
-package com.infinix.hiringChallange.controller;
+package com.infinx.billManagementSystem.controller;
 
-import com.infinix.hiringChallange.dto.BillDto;
-import com.infinix.hiringChallange.models.Bill;
-import com.infinix.hiringChallange.service.BillService;
-import com.infinix.hiringChallange.util.ApiResponse;
+import com.infinx.billManagementSystem.dto.BillDto;
+import com.infinx.billManagementSystem.models.Bill;
+import com.infinx.billManagementSystem.service.BillService;
+import com.infinx.billManagementSystem.util.ApiResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

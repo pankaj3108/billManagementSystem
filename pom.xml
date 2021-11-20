@@ -8,11 +8,11 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.infinix</groupId>
-	<artifactId>hiringChallange</artifactId>
+	<groupId>com.infinx</groupId>
+	<artifactId>billManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hiringChallange</name>
-	<description>hackathon for sde role</description>
+	<name>billManagementSystem</name>
+	<description>Bill Management System</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

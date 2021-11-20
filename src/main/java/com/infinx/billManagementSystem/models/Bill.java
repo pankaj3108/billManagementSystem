@@ -1,6 +1,6 @@
-package com.infinix.hiringChallange.models;
+package com.infinx.billManagementSystem.models;
 
-import com.infinix.hiringChallange.dto.BillDto;
+import com.infinx.billManagementSystem.dto.BillDto;
 import com.sun.istack.NotNull;
 
 import javax.persistence.*;

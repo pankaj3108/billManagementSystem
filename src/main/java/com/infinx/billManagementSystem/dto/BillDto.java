@@ -1,4 +1,4 @@
-package com.infinix.hiringChallange.dto;
+package com.infinx.billManagementSystem.dto;
 
 import com.sun.istack.NotNull;
 

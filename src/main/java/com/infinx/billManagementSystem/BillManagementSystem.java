@@ -1,13 +1,13 @@
-package com.infinix.hiringChallange;
+package com.infinx.billManagementSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HiringChallangeApplication {
+public class BillManagementSystem {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HiringChallangeApplication.class, args);
+		SpringApplication.run(BillManagementSystem.class, args);
 	}
 
 }

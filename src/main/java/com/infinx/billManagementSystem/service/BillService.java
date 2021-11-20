@@ -1,8 +1,8 @@
-package com.infinix.hiringChallange.service;
+package com.infinx.billManagementSystem.service;
 
-import com.infinix.hiringChallange.dto.BillDto;
-import com.infinix.hiringChallange.models.Bill;
-import com.infinix.hiringChallange.repository.BillRepository;
+import com.infinx.billManagementSystem.dto.BillDto;
+import com.infinx.billManagementSystem.models.Bill;
+import com.infinx.billManagementSystem.repository.BillRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

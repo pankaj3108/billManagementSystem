@@ -1,4 +1,4 @@
-package com.infinix.hiringChallange.util;
+package com.infinx.billManagementSystem.util;
 
 public class ApiResponse {
     private final boolean success;
